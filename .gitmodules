@@ -1,0 +1,3 @@
+[submodule "sql_queries"]
+	path = sql_queries
+	url = git@github.com:kush-mehra/submodule_repo.git
